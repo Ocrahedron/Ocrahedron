@@ -1,21 +1,20 @@
-
 <h1 align="center" dir="auto">Hello, there! I'm Petr <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h1>
+<body>
+
+<div id="header" align="center">
+<img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="200px" />
+  
+<h1 align="left">Contact with me:</h1>
+<p align="center">
+<a href="https://t.me/IstominPetr" target="blank"><img align="center" src="https://www.svgrepo.com/download/271091/telegram.svg" alt="@IstominPetr" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/petr-istomin-7b8635146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleksei Goloviychuk" height="30" width="40" /></a>
+<a href="https://instagram.com/istomin5507?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_yazva" height="30" width="40" /></a>
+</p>
+
+</div>
 
 
-  <div style="display: flex; flex-direction: row; justify-content:space-around">
-      <div >
-        <h1 align="left">Contact with me:</h1>
-        <p align="center">
-        <a href="https://t.me/IstominPetr" target="blank"><img align="center" src="https://www.svgrepo.com/download/271091/telegram.svg" alt="@IstominPetr" height="40" width="40" /></a>
-        <a href="https://www.linkedin.com/in/petr-istomin-7b8635146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleksei Goloviychuk" height="30" width="40" /></a>
-        <a href="https://instagram.com/istomin5507?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_yazva" height="30" width="40" /></a>
-        </p>
-      </div>
 
-      <div id="header" align="center">
-        <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="200px" />
-      </div>
-  </div>
 
   <h1>About me</h1> 
  <div id="main" align='left'>
@@ -58,5 +57,4 @@
   </div>
 </div>
  
-
-
+</body>
